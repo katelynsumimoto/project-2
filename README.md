@@ -2,7 +2,7 @@
 
 ## 281 Project 2 Learning Outcomes
 
-- A web API or Application Programming Interface is an API accessed using the HTTP protocol.
+- A web API or Application Programming Interface is an API accessed using the HTTP protocol
 - Web APIs often deliver data formatted as JSON.
 - A web API can be accessed programmatically using JavaScript.
 - The API documentation must first be consulted in order to understand how the API works and what it returns.
