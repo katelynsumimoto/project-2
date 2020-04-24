@@ -15,7 +15,7 @@ let containsDuplicates = s => {
   return false;
 };
 
-//Req 3-a
+// Req 3-a
 let revWord1 = (str) => {
   let arr = str.split(" ");
   let result = " ";
