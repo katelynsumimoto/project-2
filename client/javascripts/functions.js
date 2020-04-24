@@ -33,7 +33,7 @@ let revWords1 = (sent) => {
   return result;
 };
 
-//Req 3-b
+// Req 3-b
 let revWord2 = (str) => {
   let arr = str.split(" ");
   let result = " ";
